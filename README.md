@@ -1,6 +1,8 @@
 # Smashing-cli
 
-This README outlines the details of collaborating on this Ember application.
+This project is a version of the example app built in the EXCELLENT tutorial [An In-Depth Introduction To Ember.js | Smashing Magazine](http://www.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/).
+
+There are a few gotchas with Ember-CLI, some documented on the Ember CLI website, others which aren't.  For Example, using reopenClass to supply fixture data.
 
 ## Installation
 
